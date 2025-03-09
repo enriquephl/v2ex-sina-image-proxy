@@ -5,7 +5,9 @@
 Automatically replace `https?://*.sinaimg.cn/*.(jpg|png|gif)` with `https://image.baidu.com/search/down?url={oringinal sinaimg url}`.
 
 ## Installation
-> https://raw.githubusercontent.com/enriquephl/v2ex-sina-image-proxy/refs/heads/main/v2ex-image-proxy.js
+```
+https://raw.githubusercontent.com/enriquephl/v2ex-sina-image-proxy/refs/heads/main/v2ex-image-proxy.js
+```
 
 ## Reference
 + https://github.com/Semibold/Weibo-Picture-Store/issues/124#issuecomment-1374377286
